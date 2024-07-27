@@ -1,0 +1,14 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /static/
+Disallow: /ssl/
+Disallow: /ssl2/
+Disallow: /1.0.0/
+Disallow: /1.0.0-beta.6/
+Disallow: /1.0.0-beta.7/
+Disallow: /1.0.0-beta.8/
+Disallow: /1.0.0-beta.9/
+Disallow: /1.0.0-beta.10/
+Disallow: /1.0.0-beta.11/
+Disallow: /1.0.0-beta.12/
+Disallow: /1.0.0-beta.13/
